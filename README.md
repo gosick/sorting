@@ -8,4 +8,5 @@
 
 ### Run
 
-- `python3 -m unittest` or `python3 -m unittest test_heapsort.py`
+In container
+- `python3 -m unittest` or `python3 -m unittest test/test_heapsort.py`
